@@ -127,4 +127,4 @@ _local_settings.py
 log de erros do gunicorn
 db.sqlite3
 cópia de banco de dados.sqlite3
-estático/
+static/
